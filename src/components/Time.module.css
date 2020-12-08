@@ -1,0 +1,14 @@
+.time {
+    background-color: bisque;
+    padding-top: 1%;
+}
+
+.time > button {
+    margin-bottom: 1%;
+}
+
+.active {
+    background-color: black;
+    font-size: 300%;
+    padding: 500px;
+}
