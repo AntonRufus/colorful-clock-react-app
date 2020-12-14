@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/mega-clock/static/css/main.0cd0f53e.chunk.css",
-    "main.js": "/mega-clock/static/js/main.7a6e968b.chunk.js",
-    "main.js.map": "/mega-clock/static/js/main.7a6e968b.chunk.js.map",
-    "runtime-main.js": "/mega-clock/static/js/runtime-main.eee593a4.js",
-    "runtime-main.js.map": "/mega-clock/static/js/runtime-main.eee593a4.js.map",
-    "static/js/2.c6554fed.chunk.js": "/mega-clock/static/js/2.c6554fed.chunk.js",
-    "static/js/2.c6554fed.chunk.js.map": "/mega-clock/static/js/2.c6554fed.chunk.js.map",
-    "static/js/3.ac4c118a.chunk.js": "/mega-clock/static/js/3.ac4c118a.chunk.js",
-    "static/js/3.ac4c118a.chunk.js.map": "/mega-clock/static/js/3.ac4c118a.chunk.js.map",
-    "index.html": "/mega-clock/index.html",
-    "static/css/main.0cd0f53e.chunk.css.map": "/mega-clock/static/css/main.0cd0f53e.chunk.css.map",
-    "static/js/2.c6554fed.chunk.js.LICENSE.txt": "/mega-clock/static/js/2.c6554fed.chunk.js.LICENSE.txt"
+    "main.css": "/colorful-clock-react-app/static/css/main.4005a092.chunk.css",
+    "main.js": "/colorful-clock-react-app/static/js/main.8c22afcd.chunk.js",
+    "main.js.map": "/colorful-clock-react-app/static/js/main.8c22afcd.chunk.js.map",
+    "runtime-main.js": "/colorful-clock-react-app/static/js/runtime-main.b5242d77.js",
+    "runtime-main.js.map": "/colorful-clock-react-app/static/js/runtime-main.b5242d77.js.map",
+    "static/js/2.7e9b523f.chunk.js": "/colorful-clock-react-app/static/js/2.7e9b523f.chunk.js",
+    "static/js/2.7e9b523f.chunk.js.map": "/colorful-clock-react-app/static/js/2.7e9b523f.chunk.js.map",
+    "static/js/3.4f45434d.chunk.js": "/colorful-clock-react-app/static/js/3.4f45434d.chunk.js",
+    "static/js/3.4f45434d.chunk.js.map": "/colorful-clock-react-app/static/js/3.4f45434d.chunk.js.map",
+    "index.html": "/colorful-clock-react-app/index.html",
+    "static/css/main.4005a092.chunk.css.map": "/colorful-clock-react-app/static/css/main.4005a092.chunk.css.map",
+    "static/js/2.7e9b523f.chunk.js.LICENSE.txt": "/colorful-clock-react-app/static/js/2.7e9b523f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.eee593a4.js",
-    "static/js/2.c6554fed.chunk.js",
-    "static/css/main.0cd0f53e.chunk.css",
-    "static/js/main.7a6e968b.chunk.js"
+    "static/js/runtime-main.b5242d77.js",
+    "static/js/2.7e9b523f.chunk.js",
+    "static/css/main.4005a092.chunk.css",
+    "static/js/main.8c22afcd.chunk.js"
   ]
 }
