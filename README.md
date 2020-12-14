@@ -1,2 +1,2 @@
-# clock-react-antd
-[ React, Ant design ]
+# mega-clock-react
+[ React, CSS ]
