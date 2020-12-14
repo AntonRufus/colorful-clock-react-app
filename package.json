@@ -1,7 +1,7 @@
 {
-  "name": "mega-clock",
+  "name": "colorful-clock-react-app",
   "version": "0.1.0",
-  "homepage": "https://antonrufus.github.io/mega-clock",
+  "homepage": "https://antonrufus.github.io/colorful-clock-react-app",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
