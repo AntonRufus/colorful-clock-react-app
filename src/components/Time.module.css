@@ -5,14 +5,15 @@
 
 .time > button {
     margin-bottom: 1%;
-    padding: 15px 25px;
+    padding: 0.8% 2%;
     border-radius: 15px;
     font-weight: bold;
+    font-size: 0.73vw;
 }
 
 .time > button:hover {
     box-shadow: 4px 3px darkgrey;
-    padding: 15px 24px 15px 26px;
+    padding: 0.8% 1.9% 0.8% 2.1%;
     text-decoration: underline;
     transition-duration: 0.1s;
 }
