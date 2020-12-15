@@ -16,6 +16,7 @@ const Time = () => {
 
     return (
         <div className={css.time}>
+            <ButtonConstructor name='HOME'        colorBgc=''            colorText='black' />
             <ButtonConstructor name='RED'         colorBgc='red'         colorText='black' />
             <ButtonConstructor name='ORANGE'      colorBgc='orange'      colorText='black' />
             <ButtonConstructor name='YELLOW'      colorBgc='yellow'      colorText='black' />
