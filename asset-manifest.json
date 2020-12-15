@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/colorful-clock-react-app/static/css/main.0df005b9.chunk.css",
+    "main.css": "/colorful-clock-react-app/static/css/main.9d81b25c.chunk.css",
     "main.js": "/colorful-clock-react-app/static/js/main.1e99bac8.chunk.js",
     "main.js.map": "/colorful-clock-react-app/static/js/main.1e99bac8.chunk.js.map",
     "runtime-main.js": "/colorful-clock-react-app/static/js/runtime-main.bdd5cd0a.js",
@@ -10,13 +10,13 @@
     "static/js/3.108ad256.chunk.js": "/colorful-clock-react-app/static/js/3.108ad256.chunk.js",
     "static/js/3.108ad256.chunk.js.map": "/colorful-clock-react-app/static/js/3.108ad256.chunk.js.map",
     "index.html": "/colorful-clock-react-app/index.html",
-    "static/css/main.0df005b9.chunk.css.map": "/colorful-clock-react-app/static/css/main.0df005b9.chunk.css.map",
+    "static/css/main.9d81b25c.chunk.css.map": "/colorful-clock-react-app/static/css/main.9d81b25c.chunk.css.map",
     "static/js/2.02bc4839.chunk.js.LICENSE.txt": "/colorful-clock-react-app/static/js/2.02bc4839.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.bdd5cd0a.js",
     "static/js/2.02bc4839.chunk.js",
-    "static/css/main.0df005b9.chunk.css",
+    "static/css/main.9d81b25c.chunk.css",
     "static/js/main.1e99bac8.chunk.js"
   ]
 }
