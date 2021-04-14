@@ -4,7 +4,7 @@
 
 #### https://antonrufus.github.io/colorful-clock-react-app/
 
-## Tech stach:
+## Tech stack:
 
   ###  React:
     - Hooks
