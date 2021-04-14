@@ -6,12 +6,13 @@
 
 ## Tech stack:
 
-  ###  React:
+   ###  React:
     - Hooks
 
    ### CSS:
     - CSS modules
-
+    
+   ### JavaScript.
 
 
 ## Feel free to contact me via LinkedIn: 
